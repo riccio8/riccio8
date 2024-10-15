@@ -1,15 +1,25 @@
+---
+
 # 👋 Hi, I’m @riccio8
 
-I'm a student with a passion for hacking, particularly in reverse engineering. I learn quickly and am currently mastering Assembly lang,  C++, python and Go (golang) are mine main languages. Currently improving also my Arduino basic skills with some projects. Additionally, I've had some experience with Unity.
+I'm a student with a passion for hacking, particularly in reverse engineering. I learn quickly and am currently mastering Assembly language. C++, Python, and Go (Golang) are my main programming languages. I'm also improving my basic **Arduino** skills. While I have some experience with **Unity**, I’m not particularly passionate about game development but have a solid understanding of the basics.
 
 ## 👀 Interests
-I’m interested in anything related to computers and technology, really everything.
+I’m interested in everything related to computers and technology, especially low-level programming, cybersecurity, and Windows API development.
 
 ## 🌱 Currently Learning
-I’m currently focused on mastering Assembly and especially enhancing my skills in C++ . 
+I’m currently focused on mastering Assembly and enhancing my skills in C++, specifically building tools using **Windows APIs** and working hard on programs for **PE file analysis**.
+
+## 💼 Projects
+- **C++**: Developed various tools for **PE file analysis**, continuously improving and adding new features.
+- **Golang**: Built a **CLI tool** for managing processes on Windows.
+- **Python**: Created tools for **network analysis** across different protocols.
+- **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies.
 
 ## 💞️ Looking to Collaborate
-I’m looking to collaborate on projects related to hacking, reverse engineering, or any other computer-related endeavors. 
+I’m looking to collaborate on projects related to **hacking**, **reverse engineering**, **malware analysis**, or other low-level programming and cybersecurity endeavors.
 
 ## 📫 How to Reach Me
 Feel free to reach out to me at: [riccioadami@gmail.com](mailto:riccioadami@gmail.com)
+
+---
