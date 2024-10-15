@@ -15,6 +15,7 @@ I’m currently focused on mastering Assembly and enhancing my skills in C++, sp
 - **Golang**: Built a **CLI tool** for managing processes on Windows.
 - **Python**: Created tools for **network analysis** across different protocols.
 - **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies.
+- AND SOME OTHER STUFF...
 
 ## 💞️ Looking to Collaborate
 I’m looking to collaborate on projects related to **hacking**, **reverse engineering**, **malware analysis**, or other low-level programming and cybersecurity endeavors.
