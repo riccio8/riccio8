@@ -23,4 +23,7 @@ I’m looking to collaborate on projects related to **hacking**, **reverse engin
 ## 📫 How to Reach Me
 Feel free to reach out to me at: [riccioadami@gmail.com](mailto:riccioadami@gmail.com)
 
+
+![0x90's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x90&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
