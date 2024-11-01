@@ -13,7 +13,7 @@ I’m diving into Assembly and C++, specifically building tools using **Windows 
 - **C++**: Developed various tools for **PE file analysis**, continuously enhancing and adding features.
 - **Golang**: Built a **CLI tool** for managing processes on Windows.
 - **Python**: Created tools for **network analysis** across different protocols.
-- **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies, and for a lit of other Security stuff.
+- **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies, and for a lot of other Security related stuff.
 - AND MORE…
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
