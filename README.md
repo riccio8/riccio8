@@ -1,5 +1,5 @@
 ---
-# 👋 Hi, I’m 0x90
+# Sup, I’m 0x90
 
 I'm a student passionate about hacking, especially reverse engineering. I’m a quick learner currently focused on mastering Assembly language. My main programming languages are C++, Python, and Go (Golang). Improving a lot my assembly skills. I’m also improving my basic **Arduino** skills and have experience with **Unity**—though I'm not particularly passionate about game development- I understand all fast and well.
 
