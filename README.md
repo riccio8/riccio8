@@ -29,6 +29,8 @@ I’m diving into Assembly and C++, specifically building tools using **Windows 
 - **Python**: Created tools for **network analysis** across different protocols.
 - **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies, and for a lot of other Security related stuff.
 - AND MORE…
+
+![Car typing](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwa2t6MjBtMDY4ODQyNzhwYTNwbXYxaTM0bjByenNzenNyMm1lNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif)
 ---
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -39,7 +41,7 @@ I’m diving into Assembly and C++, specifically building tools using **Windows 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Networks](https://img.shields.io/badge/Networks-008080?style=for-the-badge)
-
+![coding](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611802ppew8a51pa5vv01898k0izc8d4vaa7a5qcijj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ## 💞️ Looking to Collaborate
 I’m open to collaborating on projects related to **hacking**, **reverse engineering**, **malware analysis**, or other low-level programming and cybersecurity projects.
 ---
