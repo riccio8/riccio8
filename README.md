@@ -42,5 +42,5 @@ Feel free to reach out at: [riccioadami@gmail.com](mailto:riccioadami@gmail.com)
 
 ---
 
-![riccio8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=riccio8&theme=vue-dark&hide_border=true)
- 
+![image](https://github.com/user-attachments/assets/6e6f412a-8a57-4fcc-96fe-929bbce1e16c)
+
