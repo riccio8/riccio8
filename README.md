@@ -15,10 +15,11 @@ I’m diving into Assembly and C++, specifically building tools using **Windows 
 - **Python**: Created tools for **network analysis** across different protocols.
 - **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies, and for a lot of other Security related stuff.
 - AND MORE…
-- 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwa2t6MjBtMDY4ODQyNzhwYTNwbXYxaTM0bjByenNzenNyMm1lNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="300">
 
 ---
+  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwa2t6MjBtMDY4ODQyNzhwYTNwbXYxaTM0bjByenNzenNyMm1lNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="150"> 
+
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -31,7 +32,7 @@ I’m diving into Assembly and C++, specifically building tools using **Windows 
 
 </div>
 
-<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611802ppew8a51pa5vv01898k0izc8d4vaa7a5qcijj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611802ppew8a51pa5vv01898k0izc8d4vaa7a5qcijj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="170">
 
 
 ## 💞️ Looking to Collaborate
