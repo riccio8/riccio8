@@ -1,14 +1,22 @@
 ---
 # Sup, I’m 0x90
 
-I'm a student passionate about hacking, especially reverse engineering. I’m a quick learner currently focused on mastering Assembly language. My main programming languages are C++, Python, and Go (Golang). Improving a lot my assembly skills. I’m also improving my basic **Arduino** skills and have experience with **Unity**—though I'm not particularly passionate about game development- I understand all fast and well.
 ---
+
+I'm a student passionate about hacking, especially reverse engineering. I’m a quick learner currently focused on mastering Assembly language. My main programming languages are C++, Python, and Go (Golang). Improving a lot my assembly skills. I’m also improving my basic **Arduino** skills and have experience with **Unity**—though I'm not particularly passionate about game development- I understand all fast and well.
+
+---
+
 ## 👀 Interests
 I’m interested in computers and technology, especially low-level programming, cybersecurity, Windows API development, and network analysis.
+
 ---
+
 ## 🌱 Currently Learning
 I’m diving into Assembly and C++, specifically building tools using **Windows APIs** and developing programs for **PE file analysis**.
+
 ---
+
 ## 💼 Projects
 - **C++**: Developed various tools for **PE file analysis**, continuously enhancing and adding features.
 - **Golang**: Built a **CLI tool** for managing processes on Windows.
