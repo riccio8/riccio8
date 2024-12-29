@@ -61,6 +61,3 @@ Feel free to reach out at: [riccioadami@gmail.com](mailto:riccioadami@gmail.com)
 ![riccio8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riccio8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-![image](https://github.com/user-attachments/assets/6e6f412a-8a57-4fcc-96fe-929bbce1e16c)
-<div>
