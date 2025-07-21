@@ -1,29 +1,128 @@
----
+riccioadami@gmail.com---
 # Sup, I’m 0x90
 
 ---
 
-I'm a student passionate about hacking, especially reverse engineering. I’m a quick learner currently focused on mastering Assembly language. My main programming languages are C++, Python, Rust and Go (Golang). Improving my assembly skills. I’m also improving my basic **Arduino** skills and have experience with **Unity**—though I'm not particularly passionate about game development- I understand all fast and well.
+
+I’m a student passionate about embedded systems and modern software development. My primary focus is building reliable and efficient applications using Rust, especially for embedded devices and Android. I'm also exploring the Android ecosystem through Kotlin, combining native performance with mobile development.
+
+I'm a fast learner and enjoy understanding how things work at a low level. From microcontrollers to mobile apps, I aim to write clean, safe, and performant code.
+
 
 ---
 
-## 👀 Interests
-I’m interested in computers and technology, especially low-level programming, cybersecurity, Windows API development, and network analysis.
+Tech Stack & Core Skills
+
+Rust – Main language: safe, fast, ideal for embedded, mobile, and UI (via Slint)
+
+Kotlin – Currently learning, focused on Android UI and integration with native Rust libraries
+
+C++ – Background in system-level programming and Windows internals
+
+Python / Go – Used for scripting, automation, networking tools
+
+Assembly – Useful for understanding low-level mechanisms and debugging
+
+Arduino – Used in support of embedded concepts and hardware experiments
+
+
 
 ---
 
-## 🌱 Currently Learning
-I’m diving into Assembly and C++, specifically building tools using **Windows APIs** and developing programs for **PE file analysis**.
+Interests
+
+Native Android development powered by Rust
+
+Cross-compiling .so libraries in Rust for mobile platforms
+
+Performance tuning and profiling (VTune, perf, cargo instruments)
+
+Safe memory management, FFI, and low-level optimization
+
+UI development for embedded/mobile using Rust (Slint) and Kotlin
+
+Systems programming and portability across Linux, Android, and microcontrollers
+
+
 
 ---
 
-## 💼 Projects
-- **C++**: Developed various tools for **PE file analysis**, continuously enhancing and adding features.
-- **Golang**: Built a **CLI tool** for managing processes on Windows.
-- **Python**: Created tools for **network analysis** across different protocols.
-- **Rust**: For memory safety, embedded, performance and UI using slint
-- **Assembly**: Developed a **DLL breakpoint detector** as part of my reverse engineering studies, and for a lot of other Security related stuff.
-- AND MORE…
+Currently Learning
+
+Android architecture with Kotlin (Jetpack, Compose, JNI)
+
+Building and linking native Rust libraries for use in Android
+
+Advanced performance profiling and debugging
+
+Designing cross-platform, efficient Rust crates
+
+Patterns for clean Kotlin ↔ Rust integration
+
+
+
+---
+
+Projects
+
+Rust
+
+CLI tools, embedded utilities, system software, UI apps with Slint
+
+.so libraries targeting Android logic modules
+
+
+Kotlin + Rust
+
+Prototypes where Android UI (Kotlin) connects to performant Rust backends
+
+
+C++
+
+Tools for binary analysis and PE introspection
+
+
+Python / Go
+
+Network analyzers, process tools, automation utilities
+
+
+Assembly 
+
+Low level architecture 
+
+
+
+---
+
+Goal
+
+To build modern Android applications where:
+
+Rust handles the core logic, ensuring safety and performance
+
+Kotlin powers the UI and interacts with Rust via JNI
+
+All parts of the system are well-structured, portable, and profiled
+
+The final result combines native speed with modern UX
+
+
+
+---
+
+Looking to Collaborate
+
+I'm open to everything, especially:
+
+Rust-based Android or embedded projects
+
+High-performance tools with low memory/CPU overhead
+
+Systems where profiling, safety, and portability matter
+
+Rust/Kotlin hybrid applications or libraries
+
 
 ---
   
