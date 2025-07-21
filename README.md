@@ -144,8 +144,7 @@ Rust/Kotlin hybrid applications or libraries
 <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611802ppew8a51pa5vv01898k0izc8d4vaa7a5qcijj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="170">
 
 
-## 💞️ Looking to Collaborate
-I’m open to collaborating on projects related to **hacking**, **reverse engineering**, **malware analysis**, or other low-level programming and cybersecurity projects.
+
 ---
 ## 📫 How to Reach Me
 Feel free to reach out at: [riccioadami@gmail.com](mailto:riccioadami@gmail.com)
