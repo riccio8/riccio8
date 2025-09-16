@@ -1,128 +1,48 @@
-riccioadami@gmail.com---
 # Sup, I’m 0x90
+---
+
+# Hi, I’m 0x90
+
+I’m a student passionate about **low-level programming, embedded systems, and Rust**. I focus on writing **safe, performant, and reliable software**, from microcontrollers to system-level tools. I enjoy understanding how systems work under the hood, optimizing code, and exploring **cross-platform solutions**.
 
 ---
 
+## Tech Stack & Skills
 
-I’m a student passionate about embedded systems and modern software development. My primary focus is building reliable and efficient applications using Rust, especially for embedded devices and Android. I'm also exploring the Android ecosystem through Kotlin, combining native performance with mobile development.
-
-I'm a fast learner and enjoy understanding how things work at a low level. From microcontrollers to mobile apps, I aim to write clean, safe, and performant code.
-
-
----
-
-Tech Stack & Core Skills
-
-Rust – Main language: safe, fast, ideal for embedded, mobile, and UI (via Slint)
-
-Kotlin – Currently learning, focused on Android UI and integration with native Rust libraries
-
-C++ – Background in system-level programming and Windows internals
-
-Python / Go – Used for scripting, automation, networking tools
-
-Assembly – Useful for understanding low-level mechanisms and debugging
-
-Arduino – Used in support of embedded concepts and hardware experiments
-
-
+* **Rust** – Embedded, system tools, UI (Slint), CLI utilities
+* **C++ / Assembly** – Systems programming, low-level internals
+* **Python / Go** – Scripting, automation, networking
+* **Arduino** – Embedded experiments and prototyping
 
 ---
 
-Interests
+## Interests
 
-Native Android development powered by Rust
-
-Cross-compiling .so libraries in Rust for mobile platforms
-
-Performance tuning and profiling (VTune, perf, cargo instruments)
-
-Safe memory management, FFI, and low-level optimization
-
-UI development for embedded/mobile using Rust (Slint) and Kotlin
-
-Systems programming and portability across Linux, Android, and microcontrollers
-
-
+* Rust-powered embedded and system-level projects
+* Low-level optimization, profiling, and memory safety
+* UI development for embedded systems using Slint
+* Cross-platform systems programming (Linux, microcontrollers)
 
 ---
 
-Currently Learning
+## Projects
 
-Android architecture with Kotlin (Jetpack, Compose, JNI)
-
-Building and linking native Rust libraries for use in Android
-
-Advanced performance profiling and debugging
-
-Designing cross-platform, efficient Rust crates
-
-Patterns for clean Kotlin ↔ Rust integration
-
-
+* **Rust:** CLI tools, embedded utilities, Slint apps
+* **C++ / Assembly:** Binary analysis, low-level experimentation
+* **Python / Go:** Network analyzers, automation, tooling
 
 ---
 
-Projects
+## Goal
 
-Rust
-
-CLI tools, embedded utilities, system software, UI apps with Slint
-
-.so libraries targeting Android logic modules
-
-
-Kotlin + Rust
-
-Prototypes where Android UI (Kotlin) connects to performant Rust backends
-
-
-C++
-
-Tools for binary analysis and PE introspection
-
-
-Python / Go
-
-Network analyzers, process tools, automation utilities
-
-
-Assembly 
-
-Low level architecture 
-
-
+Build **safe, performant, and portable software**, leveraging **Rust** and low-level programming to solve real-world embedded and system challenges.
 
 ---
 
-Goal
+## Collaboration
 
-To build modern Android applications where:
-
-Rust handles the core logic, ensuring safety and performance
-
-Kotlin powers the UI and interacts with Rust via JNI
-
-All parts of the system are well-structured, portable, and profiled
-
-The final result combines native speed with modern UX
-
-
-
----
-
-Looking to Collaborate
-
-I'm open to everything, especially:
-
-Rust-based Android or embedded projects
-
-High-performance tools with low memory/CPU overhead
-
-Systems where profiling, safety, and portability matter
-
-Rust/Kotlin hybrid applications or libraries
-
+Open to **Rust-based embedded projects**, **high-performance tools**, and **low-level systems** where safety, profiling, and optimization are key.
+email: [email](riccioadami@gmail.com]
 
 ---
   
