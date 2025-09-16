@@ -1,7 +1,8 @@
-# Sup, I’m 0x90
----
+<h1 align="center">Riccardo Adami</h1>
+<h3 align="center">Rust enthusiast</h3>
+<h3 align="center">Hardware and low level system</h3>
 
-# Hi, I’m 0x90
+<br>
 
 I’m a student passionate about **low-level programming, embedded systems, and Rust**. I focus on writing **safe, performant, and reliable software**, from microcontrollers to system-level tools. I enjoy understanding how systems work under the hood, optimizing code, and exploring **cross-platform solutions**.
 
@@ -45,8 +46,7 @@ Open to **Rust-based embedded projects**, **high-performance tools**, and **low-
 email: [email](riccioadami@gmail.com]
 
 ---
-  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwa2t6MjBtMDY4ODQyNzhwYTNwbXYxaTM0bjByenNzenNyMm1lNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="150"> 
+
 
 <div align="center">
 
@@ -60,10 +60,6 @@ email: [email](riccioadami@gmail.com]
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
 </div>
-
-<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611802ppew8a51pa5vv01898k0izc8d4vaa7a5qcijj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="170">
-
-
 
 ---
 ## 📫 How to Reach Me
