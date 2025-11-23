@@ -1,5 +1,4 @@
 <h1 align="center">Riccardo Adami</h1>
-<h3 align="center">Rust enthusiast</h3>
 <h3 align="center">Hardware and low level system</h3>
 
 <br>
